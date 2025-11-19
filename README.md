@@ -26,13 +26,13 @@ Examples: Spiceworks, Jira Service Management, Zendesk, Freshservice.
 
 ## 2. Key Terms
 
-### Ticket ID
+#### Ticket ID
 A unique number assigned to every ticket for tracking and referencing.
 
-### Requester
+#### Requester
 The person reporting an issue.
 
-### Category
+#### Category
 The classification of the issue  
 Examples:  
 - Hardware issue  
@@ -41,7 +41,7 @@ Examples:
 - Account access  
 - Printer issue  
 
-### Priority Levels
+#### Priority Levels
 | Priority | Meaning | Impact | Example |
 |---------|---------|--------|---------|
 | **P1 – Critical** | Major outage | High | Company email system down |
@@ -49,10 +49,10 @@ Examples:
 | **P3 – Medium** | Single-user issue | Low | Outlook not syncing |
 | **P4 – Low** | Minor request | Minimal | User needs a new mouse |
 
-### Assigned To
+#### Assigned To
 The technician responsible for handling the ticket.
 
-### Status Types
+#### Status Types
 | Status | Meaning |
 |--------|---------|
 | **New** | Ticket created, not yet reviewed |
@@ -64,30 +64,28 @@ The technician responsible for handling the ticket.
 
 ## 3. How to Properly Log a Ticket
 
-### ✔ Gather User Information
+#### ✔ Gather User Information
 - Name  
 - Email  
 - Contact number  
 - Department  
 - Location (if applicable)
 
-### ✔ Gather System Information
+#### ✔ Gather System Information
 - Device type  
 - Operating system  
 - Software version  
 - Network type (Wi-Fi/Ethernet)
 
-### ✔ Categorize the Issue
+#### ✔ Categorize the Issue
 Examples:  
 - Software issue  
 - Hardware failure  
 - Network issue  
 - Access request  
 
-### ✔ Determine Priority Level
+#### ✔ Determine Priority Level
 Based on impact and urgency.
-
----
 
 ## 4. Getting Started with Spiceworks
 
