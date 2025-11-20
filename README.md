@@ -1,7 +1,9 @@
 # 📘 Ticketing System Lab Using Spiceworks
-A beginner-friendly IT Help Desk lab demonstrating how to use **Spiceworks Cloud Help Desk** to log, track, and resolve support tickets. This project simulates real Tier 1 troubleshooting scenarios and proper ticket documentation.
+
 
 ---
+## Overview
+A beginner-friendly IT Help Desk lab demonstrating how to use **Spiceworks Cloud Help Desk** to log, track, and resolve support tickets. This project simulates real Tier 1 troubleshooting scenarios and proper ticket documentation.
 
 ## 🎯 Objective
 Learn the fundamentals of an IT ticketing system, including:
@@ -10,8 +12,7 @@ Learn the fundamentals of an IT ticketing system, including:
 - Ticket statuses and workflow  
 - Hands-on experience using Spiceworks Help Desk 
 
----
-
+##
 ## 1. What Is a Ticketing System?
 A ticketing system is a tool used by IT teams to record, track, manage, and resolve technical issues submitted by users.
 
@@ -44,10 +45,10 @@ Examples:
 #### Priority Levels
 | Priority | Meaning | Impact | Example |
 |---------|---------|--------|---------|
-| **P1 – Critical** | Major outage | High | Company email system down |
-| **P2 – High** | Department-level issue | Moderate | Accounting software offline |
-| **P3 – Medium** | Single-user issue | Low | Outlook not syncing |
-| **P4 – Low** | Minor request | Minimal | User needs a new mouse |
+| **Critical (P1)** | Major outage | High | Company email system down |
+| **High (P2)** | Department-level issue | Moderate | Accounting software offline |
+| **Medium (P3)** | Single-user issue | Low | Outlook not syncing |
+| **Low (P4)** | Minor request | Minimal | User needs a new mouse |
 
 #### Assigned To
 The technician responsible for handling the ticket.
@@ -97,6 +98,7 @@ Based on impact and urgency.
    - Updating statuses  
    - Adding internal notes  
 
+
 ---
 
 ## 🔧 Practice Scenarios
@@ -119,9 +121,10 @@ Based on impact and urgency.
 - Priority: Medium (P3) or High (P2) depending on urgency
 - Action: Inspect power cable, test HDMI/DisplayPort connection, try a different monitor, document troubleshooting steps 
 
----
+
 ## 📚 Resources
-- **[Create a free Spiceworks account](https://accounts.spiceworks.com/join/)**
-- **[YouTube tutorial](https://www.youtube.com/watch?v=g1AZ-EtD6Nw)**
+- [Create a free Spiceworks account](https://accounts.spiceworks.com/join/)
+- [YouTube tutorial](https://www.youtube.com/watch?v=g1AZ-EtD6Nw)
 
 ---
+Last Updated: November 2025
