@@ -95,8 +95,8 @@ Based on impact and urgency.
    - Updating statuses  
    - Adding internal notes  
 
-![Spiceworks signup page](images/signup-page.png)<br/><br/>
-![User logged into Spiceworks dashboard](images/user-logged-in.png)<br/><br/>
+![Spiceworks signup page](images/signup-page.png)<br/><br/><br/>
+![User logged into Spiceworks dashboard](images/user-logged-in.png)
 ![First-time login ticketing welcome screen](images/first-time-logged-in.png)<br/>
 ![Spiceworks ticketing dashboard interface](images/ticketing-dashboard.png)
 
