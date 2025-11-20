@@ -1,8 +1,8 @@
 # 📘 Ticketing System Lab Using Spiceworks
-## Table of Contents
+## 📑 Table of Contents
 
 ---
-## Overview
+## 🌐 Overview
 A beginner-friendly IT Help Desk lab demonstrating how to use **Spiceworks Cloud Help Desk** to log, track, and resolve support tickets. This project simulates real Tier 1 troubleshooting scenarios and proper ticket documentation.
 
 ## 🎯 Objective
@@ -12,18 +12,16 @@ Learn the fundamentals of an IT ticketing system, including:
 - Ticket statuses and workflow  
 - Hands-on experience using Spiceworks Help Desk 
 
-##
+## 🧠 Introduction to Ticketing Systems
 ## 1. What Is a Ticketing System?
-A ticketing system is a tool used by IT teams to record, track, manage, and resolve technical issues submitted by users.
-
-It ensures:
+A ticketing system is a tool used by IT teams to record, track, manage, and resolve technical issues submitted by users. It ensures:
 - Clear documentation  
 - Proper routing  
 - Efficient communication  
 - Accountability  
 - Traceability of troubleshooting steps  
 
-Examples: Spiceworks, Jira Service Management, Zendesk, Freshservice.
+**Examples:** Spiceworks, Jira Service Management, Zendesk, Freshservice.
 
 ## 2. Key Terms
 
@@ -88,8 +86,7 @@ Examples:
 #### ✔ Determine Priority Level
 Based on impact and urgency.
 
-## 4. Getting Started with Spiceworks
-
+## 🚀 Getting Started with Spiceworks
 1. Sign up for a free cloud account  
 2. Log into the Spiceworks Help Desk dashboard  
 3. Explore:
@@ -98,15 +95,12 @@ Based on impact and urgency.
    - Updating statuses  
    - Adding internal notes  
 
-![Spiceworks signup page](images/signup-page.png)<br/>
-![User logged into Spiceworks dashboard](images/user-logged-in.png)<br/>
+![Spiceworks signup page](images/signup-page.png)<br/><br/>
+![User logged into Spiceworks dashboard](images/user-logged-in.png)<br/><br/>
 ![First-time login ticketing welcome screen](images/first-time-logged-in.png)<br/>
 ![Spiceworks ticketing dashboard interface](images/ticketing-dashboard.png)
 
----
-
 ## 🔧 Practice Scenarios
-
 ### Scenario 1 – Software Issue
 **User Problem:** Sarah M., Marketing Department, reports that her Outlook inbox is not syncing and she has missed several client emails.
 - Category: Software Issue
@@ -125,7 +119,7 @@ Based on impact and urgency.
 - Priority: Medium (P3) or High (P2) depending on urgency
 - Action: Inspect power cable, test HDMI/DisplayPort connection, try a different monitor, document troubleshooting steps 
 
-
+---
 ## 📚 Resources
 - [Create a free Spiceworks account](https://accounts.spiceworks.com/join/)
 - [YouTube tutorial](https://www.youtube.com/watch?v=g1AZ-EtD6Nw)
