@@ -135,9 +135,9 @@ The technician reviewed the ticket, updated the status to In Progress, and perfo
   
 <br/>
 
-![Ticket update example](images/ticket-status-update.png) <br/>
-![Ticket closure confirmation](images/ticket-closed.png) <br/>
-![Internal note for team](images/documentation-internal-note.png) <br/>
+![Ticket update example](images/ticket-status-update.png) <br/><br/>
+![Ticket closure confirmation](images/ticket-closed.png) <br/><br/>
+![Internal note for team](images/documentation-internal-note.png) <br/><br/>
 
 <br/>
 
