@@ -1,6 +1,11 @@
 # 📘 Ticketing System Lab Using Spiceworks
 ## 📑 Table of Contents
-
+- [Overview](#-overview)
+- [Objective](#-objective)
+- [Introduction to Ticketing Systems](#-introduction-to-ticketing-systems)
+- [Getting Started with Spiceworks](#-getting-started-with-spiceworks)
+- [Practice Scenarios](#-practice-scenarios)
+- [Resources](#-resources)
 ---
 ## 🌐 Overview
 A beginner-friendly IT Help Desk lab demonstrating how to use **Spiceworks Cloud Help Desk** to log, track, and resolve support tickets. This project simulates real Tier 1 troubleshooting scenarios and proper ticket documentation.
@@ -129,7 +134,6 @@ Based on impact and urgency.
    - **Priority:** Medium (P3) or High (P2) depending on urgency
    - **Action:** Inspect power cable, test HDMI/DisplayPort connection, try a different monitor, document troubleshooting steps 
 
----
 ## 📚 Resources
 - [Create a free Spiceworks account](https://accounts.spiceworks.com/join/)
 - [YouTube tutorial](https://www.youtube.com/watch?v=g1AZ-EtD6Nw)
