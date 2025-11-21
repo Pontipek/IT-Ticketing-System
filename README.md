@@ -128,11 +128,17 @@ Based on impact and urgency.
    ![Monitor not powering on](images/scenario3.png)
 
 ### Closing a ticket and documentation
-#### Scenario 3 (Hardware Issue)
-   - **User Problem:** Emily T., HR Department, reports that her monitor will not turn on even after rebooting the system.
-   - **Category:** Hardware Issue
-   - **Priority:** Medium (P3) or High (P2) depending on urgency
-   - **Action:** Inspect power cable, test HDMI/DisplayPort connection, try a different monitor, document troubleshooting steps 
+For this demonstration, we closed the ticket created for **Scenario 3**, where the user reported that her monitor was not turning on.
+
+**Process Summary**
+The technician reviewed the ticket, updated the status to In Progress, and performed standard hardware troubleshooting. After testing multiple cables, ports, and outlets, the monitor was confirmed to be faulty. A replacement monitor was installed, and all steps were documented in Spiceworks. Once the user verified that everything was functioning correctly, the ticket was updated to Resolved and then officially Closed after the user confirmed that everything was working as expected.
+  
+<br/>
+
+![Ticket update example](images/ticket-status-update.png)
+![Ticket closure confirmation](images/ticket-closed.png)
+![Internal note for team](images/documentation-internal-note.png)
+
 <br/>
 
 ## 📚 Resources
