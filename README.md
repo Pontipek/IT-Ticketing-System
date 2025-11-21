@@ -24,7 +24,6 @@ A ticketing system is a tool used by IT teams to record, track, manage, and reso
 **Examples:** Spiceworks, Jira Service Management, Zendesk, Freshservice.
 
 ## 2. Key Terms
-
 #### Ticket ID
 A unique number assigned to every ticket for tracking and referencing.
 
@@ -107,27 +106,24 @@ Based on impact and urgency.
    - **Category:** Software Issue
    - **Priority:** High (P2)
    - **Action:** Collect system details, restart Outlook, verify account settings, check mailbox size and sync status
-   
    ![Outlook inbox not syncing](images/scenario1.png)
 
-#### - Scenario 2 (Network Issue)
+#### Scenario 2 (Network Issue)
    - **User Problem:** John R., Sales Department, is unable to connect to the office Wi-Fi and cannot access his cloud files before a meeting.
    - **Category:** Network Issue
    - **Priority:** High (P2)
    - **Action:** Verify network adapter status, check Wi-Fi availability, test connection on another device, confirm if other users are affected
-
    ![Unable to connect to office Wi-Fi](images/scenario2.png)
 
-#### - Scenario 3 (Hardware Issue)
+#### Scenario 3 (Hardware Issue)
    - **User Problem:** Emily T., HR Department, reports that her monitor will not turn on even after rebooting the system.
    - **Category:** Hardware Issue
    - **Priority:** Medium (P3) or High (P2) depending on urgency
    - **Action:** Inspect power cable, test HDMI/DisplayPort connection, try a different monitor, document troubleshooting steps
-
    ![Monitor not powering on](images/scenario3.png)
 
 ### Closing a ticket and documentation
-#### - Scenario 3 (Hardware Issue)
+#### Scenario 3 (Hardware Issue)
    - **User Problem:** Emily T., HR Department, reports that her monitor will not turn on even after rebooting the system.
    - **Category:** Hardware Issue
    - **Priority:** Medium (P3) or High (P2) depending on urgency
