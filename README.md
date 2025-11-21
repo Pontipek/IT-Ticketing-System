@@ -134,6 +134,7 @@ Based on impact and urgency.
    - **Priority:** Medium (P3) or High (P2) depending on urgency
    - **Action:** Inspect power cable, test HDMI/DisplayPort connection, try a different monitor, document troubleshooting steps 
 <br/>
+
 ## 📚 Resources
 - [Create a free Spiceworks account](https://accounts.spiceworks.com/join/)
 - [YouTube tutorial](https://www.youtube.com/watch?v=g1AZ-EtD6Nw)
