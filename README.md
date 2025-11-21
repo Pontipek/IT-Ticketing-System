@@ -144,5 +144,6 @@ The technician reviewed the ticket, updated the status to In Progress, and perfo
 - [Create a free Spiceworks account](https://accounts.spiceworks.com/join/)
 - [YouTube tutorial](https://www.youtube.com/watch?v=g1AZ-EtD6Nw)
 <br/>
+
 ---
 Last Updated: November 2025
